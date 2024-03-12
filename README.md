@@ -1,3 +1,3 @@
-# **Title of the Project**
+# **Analyzing and Predicting Salary from Job Description**
 
 NLP project for the Master in Machine Learning for Health @ UC3M. The goal of this project is to...
