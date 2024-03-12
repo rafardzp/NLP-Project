@@ -1,0 +1,12 @@
+DONE - Engineering
+DONE - Artificial Intelligence
+DONE - Research 
+DONE - Consultant (pocos)
+DONE - Finance
+DONE - Legal (pocos)
+DONE - Human Resources
+DONE - Sales (pocos)
+DONE - Marketing
+- Healthcare
+- Administrative
+- Cybersecurity
