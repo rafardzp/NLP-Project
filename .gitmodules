@@ -1,0 +1,3 @@
+[submodule "Job-Offer-Web-Scraper"]
+	path = Job-Offer-Web-Scraper
+	url = https://github.com/rafardzp/Job-Offer-Web-Scraper.git
